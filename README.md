@@ -2,9 +2,6 @@
 <h1>This app was develop using javascript, html and css.</h1>
 </br>
 <img src="img/packMen.PNG"></img> 
-<p>The code can be used for apps oriented for tracking bus, shows possible routes and so on. The most importat thing here is the questions derivated to this. 
-Is it possible to have the shortes route? If so, Wich one is.
-Will the solution be constant? or Is this one be variant on time?
-Because the routes can be diferente accordig to two or more different point, If We would try to monitize
-the cost of every route, Can machine learning be used to learn according to variance?
-Can those ruotes been automated using Electrical vehicles and self driving autonomus models?</p>
+<p>The can be used as play game. The algorithm can be integrated with data science and machine lkearning in case of reasearch study.
+The movement, the speed, possition and so on are variables that can be stored and analized by data science. The app has
+constant the speed, the question is, What is the speed is variable, Does the aceleration will be variable as well? Does the possition can be predicted?</p>
